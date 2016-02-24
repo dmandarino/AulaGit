@@ -23,7 +23,7 @@ class ViewController: UIViewController {
 
     func printCoisas() {
         print("oi Cabral")
-        print("blablabla")
+        print("testanto 123")
     }
 }
 
