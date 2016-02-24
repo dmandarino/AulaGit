@@ -23,7 +23,9 @@ class ViewController: UIViewController {
 
     func printCoisas() {
         print("oi Cabral")
+
         print("rerioueori")
+
     }
 }
 
